@@ -1,0 +1,1 @@
+// OpenAI prompt logic for extracting tender data

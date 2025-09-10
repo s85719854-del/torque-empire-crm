@@ -1,0 +1,1 @@
+// Consent acceptance logic & storage (placeholder)
